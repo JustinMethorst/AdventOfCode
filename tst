@@ -1,0 +1,1 @@
+"C:\\Projects\\AdventOfCode\\2024\\day1data.txt
